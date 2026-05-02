@@ -73,6 +73,7 @@ project_ved_amar_jadiye/
 │
 ├── config.py                    ← all hyperparameters and paths
 ├── dataset.py                   ← GCN transform + CellDataset + DataLoader
+├── main.py                      ← A CLI entry point that lets you run training and inference directly from the terminal using --train and --predict flags
 ├── model.py                     ← ResNet-18 architecture + build_model()
 ├── train.py                     ← training loop with checkpointing
 ├── predict.py                   ← inference function + GradCAM helper
