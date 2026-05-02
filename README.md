@@ -1,5 +1,5 @@
 # Blood Cell Classification using Transfer Learning
-**Student:** Ved Amar Jadiye | **Roll Number:** 20221283
+**Student:** Ved Amar Jadiye | **Roll Number:** 20221283 |
 **Course:** Image and Video Processing with Deep Learning
 
 ---
