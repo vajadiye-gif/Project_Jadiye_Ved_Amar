@@ -95,6 +95,12 @@ pip install grad-cam          # for pytorch_grad_cam (GradCAM in predict.py)
 
 All other dependencies (`numpy`, `PIL`, `pathlib`) are part of the standard Python environment.
 
+If you are running it locally then perform one additional installation along with the above ones as follows:
+
+```bash
+pip install numpy Pillow
+```
+
 **Python version:** 3.10+
 **PyTorch version:** 2.x
 
